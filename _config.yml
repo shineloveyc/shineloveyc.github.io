@@ -1,2 +1,3 @@
-name:Data Is Fun
-markdown: kramdown
+name: Data Is Fun
+kramdown :
+  html_to_native: true
