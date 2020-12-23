@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Data is Fun, Launches Site"
-date: 2020-12-324
+date: 2020-12-23
 ---
 
 Well. Finally got around to putting this old website together. Neat thing about
